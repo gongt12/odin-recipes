@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(200, 240, 247);
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  
+ h1 {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+ }
+
+ a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  text-decoration: none; 
+   }
+   
+   
+ a:hover {
+    background-color: yellow;
+  }
+
+li {
+  text-align: center;
+  list-style-type: none;
+}
+  
+  
